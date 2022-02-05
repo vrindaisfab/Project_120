@@ -1,0 +1,73 @@
+p{
+    color: red;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-family: 'Righteous', cursive;
+
+}
+span{
+    letter-spacing: 1px;
+}
+#mobilenet{
+    letter-spacing: 2px;
+}
+.bottom{
+    color: red;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Righteous', cursive;
+
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+    font-family: 'Righteous', cursive;
+
+}
+b{
+    color: purple;
+    font-family: 'Righteous', cursive;
+
+}
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+    font-family: 'Righteous', cursive;
+
+}
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+    font-family: 'Righteous', cursive;
+
+}
+.white1,.white2,.white3,.white4,.white5,.white6,.white7,.white8,.white9{
+    color: white;
+    font-family: 'Righteous', cursive;
+
+}
+span{
+    color: red;
+    font-family: 'Righteous', cursive;
+
+}
+.google_lens{
+    color: black;
+    font-family: 'Righteous', cursive;
+
+}
+h4{
+    color: white;
+    font-weight: bold;
+    font-family: 'Righteous', cursive;
+
+}
